@@ -1,0 +1,7 @@
+echo "# Toy_Expo_Website" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/TankysCodingAcademey/Toy_Expo_Website.git
+git push -u origin master
+
